@@ -1,16 +1,28 @@
-# splash_screen
 
-A new Flutter project.
+# Flutter Splash Screen
 
-## Getting Started
+This is splash screen flutter app for Android and IOS.
+## Color Reference
 
-This project is a starting point for a Flutter application.
+| Color             | Hex                                                                |
+| ----------------- | ------------------------------------------------------------------ |
+| Primary Color | ![0xFF587AC9](https://via.placeholder.com/10/0a192f?text=+) #0a192f |
+| White Color | ![#FFFFFF](https://via.placeholder.com/10/f8f8f8?text=+) #f8f8f8 |
 
-A few resources to get you started if this is your first Flutter project:
+## Authors
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- [@Adiikust](https://github.com/Adiikust)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
+## 🚀 About Me
+I'm a full stack Flutter developer...
+
+
+## 🛠 Skills
+Dart, Flutter, AdobeXd...
+
