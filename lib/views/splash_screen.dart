@@ -1,3 +1,5 @@
+import 'dart:async';
+
 import 'package:splash_screen/utils/exports.dart';
 
 class SplashScreen extends StatefulWidget {
@@ -8,8 +10,30 @@ class SplashScreen extends StatefulWidget {
 }
 
 class _SplashScreenState extends State<SplashScreen> {
+  void splashDuration() {
+    Timer(
+      const Duration(seconds: 3),
+      () {},
+    );
+  }
+
+  @override
+  void initState() {
+    super.initState();
+    splashDuration();
+  }
+
+  @override
+  void dispose() {
+    super.dispose();
+  }
+
   @override
   Widget build(BuildContext context) {
-    return Container();
+    return const Scaffold(
+      body: Center(
+        child: Text('Splash Screen'),
+      ),
+    );
   }
 }
